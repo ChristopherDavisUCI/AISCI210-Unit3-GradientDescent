@@ -1,6 +1,6 @@
 # AISCI210-Unit3-GradientDescent
 
-Materials for Unit 3 of UC Irvine AI SCI 210: **Gradient Descent**, including manual gradients, mini-batches, and a path toward backpropagation and automatic differentiation.
+Materials for Unit 3 of UC Irvine AI SCI 210: **Gradient Descent**.
 
 ## Start in GitHub Codespaces
 
